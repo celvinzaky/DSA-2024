@@ -1,0 +1,28 @@
+{
+    "Credentials": {
+        "cel@gmail.com": {
+            "Name": "cel",
+            "Password": "e910c860a57e5fdce6036094ff88077670a2343121beb2f844007d5d4462a948"
+        },
+        "ab@gmail.com": {
+            "Name": "ab",
+            "Password": "fb8e20fc2e4c3f248c60c39bd652f3c1347298bb977b8b4d5903b85055620603"
+        },
+        "an@gmail.com": {
+            "Name": "an",
+            "Password": "80a19377849467"
+        },
+        "": {
+            "Name": "",
+            "Password": "50d8f66a732a5"
+        },
+        "ac@gmail.com": {
+            "Name": "ac",
+            "Password": "c56b0d8790b5d"
+        },
+        "cd@gmail.com": {
+            "Name": "cd",
+            "Password": "4cd472d56e7ca9"
+        }
+    }
+}
